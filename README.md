@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-images
+![Screenshot (148)](https://github.com/amalfranci/SocialMedia_project-LookUp/assets/65619344/ef82014c-3863-4d5c-9c9e-b54c771ffd40)
 
 ## Available Scripts
 
