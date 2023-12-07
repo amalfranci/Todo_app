@@ -1,0 +1,98 @@
+.Container{
+
+
+   
+    margin: 50px;
+    background-color: #012727d7;
+    border: none;
+    padding: 60px;
+    border-radius: 10px;
+    justify-content: center;
+
+
+}
+.error-message {
+    color: red;
+    margin-top: 5px;
+    text-align: center;
+  }
+
+h2{
+
+    text-align: center;
+    color: white;
+
+}
+.form-group{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    width: auto;
+}
+button{
+    margin-left: 10px;
+    background-color: transparent;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    width: 20%;
+    font-weight: bold;
+    cursor: pointer;
+}
+.list{
+    margin-top: 30px !important;
+}
+
+li{
+  
+    margin-bottom: 15px;
+    margin-left: -12px;
+    background-color: black;
+    color: white !important;
+   
+   list-style-type: none;
+   border-radius: 5px;
+   padding: 10px;
+   
+
+}
+.list{
+    text-decoration: none;
+}
+.list-items{
+    display: flex;
+}
+.list-items .list-items-list{
+    flex: 1;
+    
+
+}
+.list-items-list{
+    font-size: 20px;
+}
+.list-items-icons{
+    padding-left: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    
+   
+
+
+}
+#complete{
+    color: forestgreen;
+
+
+}
+#edit{
+    color: blue;
+}
+#delete{
+
+    color: red;
+}
+#list_item{
+    text-decoration: line-through;
+    opacity: 0.4;
+}
