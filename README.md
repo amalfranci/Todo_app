@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Screenshot (148)](https://github.com/amalfranci/SocialMedia_project-LookUp/assets/65619344/ef82014c-3863-4d5c-9c9e-b54c771ffd40)
 
+
+Live Demo : https://660527be7282055e0b0950fa--delightful-toffee-1a0ca8.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
